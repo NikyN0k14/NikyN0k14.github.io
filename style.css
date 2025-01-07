@@ -148,20 +148,21 @@ input:checked ~ .slide{
 .contet strong {
     color:#ffffff;
     line-heigt: 1.6;
-    margin-bottom: 20px;
+    margin-bottom: 5px;
+}
 
 .content p {
     color: #ffffff; 
     line-height: 1.6; 
-    margin-bottom: 15px;
+    margin-bottom: 3px;
 }
 
 .content li strong{
     color: #fffdfd;
-    margin-bottom: 10px;
+    margin-bottom: 7px;
 }
 
 .content ul li {
     color: #fffdfd;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
