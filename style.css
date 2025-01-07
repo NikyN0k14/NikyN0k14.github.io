@@ -135,13 +135,13 @@ input:checked ~ .slide{
 
 .content h2{
     color: #6f2da8; 
-    margin-bottom: 10px; 
+    margin-bottom: 20px; 
     text-align: center;
 }
 
 .content h1 {
     color: #6f2da8; 
-    margin-bottom: 10px; 
+    margin-bottom: 20px; 
     text-align: center;
 }
 
