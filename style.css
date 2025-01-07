@@ -153,16 +153,24 @@ input:checked ~ .slide{
 
 .content p {
     color: #ffffff; 
-    line-height: 1.6; 
-    margin-bottom: 3px;
+    margin-bottom: 20px;  /* Spazio tra i paragrafi */
+   line-height: 1.8;     /* Spazio tra le righe di un paragrafo */
+   padding-bottom: 10px; /* Spazio interno sotto ogni paragrafo */
+   word-spacing: 3px;    /* Spazio tra le parole */
 }
 
 .content li strong{
     color: #fffdfd;
-    margin-bottom: 7px;
+   margin-bottom: 20px;  /* Spazio tra i paragrafi */
+   line-height: 1.8;     /* Spazio tra le righe di un paragrafo */
+   padding-bottom: 10px; /* Spazio interno sotto ogni paragrafo */
+   word-spacing: 3px;    /* Spazio tra le parole */
 }
 
 .content ul li {
     color: #fffdfd;
-    margin-bottom: 5px;
+    margin-bottom: 20px;  /* Spazio tra i paragrafi */
+    line-height: 1.8;     /* Spazio tra le righe di un paragrafo */
+    padding-bottom: 10px; /* Spazio interno sotto ogni paragrafo */
+    word-spacing: 3px;    /* Spazio tra le parole */
 }
